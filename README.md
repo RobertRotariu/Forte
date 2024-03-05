@@ -26,7 +26,11 @@
     <img src="https://avatars.githubusercontent.com/u/94953125?s=200&v=4" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Floorp Browser </h3>
+  <h3 align="center"><s>Floorp</s> Forte Browser </h3>
+
+  <p style="text-align: center">
+    ⚠️🔴 <strong>This is just the Floorp browser with a decent name (maybe at some point I will try to add tab groups; maybe...)</strong> 🔴⚠️
+  </p>
 
   <p align="center">
        A Browser build for keeping the Open, Private and Sustainable Web alive. Based on Mozilla Firefox.
